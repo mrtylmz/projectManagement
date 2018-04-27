@@ -1,0 +1,6 @@
+insert into employees (employee_id,contact_phone,name_and_surname,role_code) values ('1','5066187660','MURATYILMAZ','0')
+insert into employees (employee_id,contact_phone,name_and_surname,role_code) values ('2','5066187622','TONYMONTANA','1')
+insert into employees (employee_id,contact_phone,name_and_surname,role_code) values ('3','5054545455','PABLOESCOBAR','2')
+insert into jobs (job_explanation) values ('malzemeyi fabrikadan al')
+insert into jobs (job_explanation) values ('2.nolu şantiyede boya yap')
+insert into jobs (job_explanation) values ('Şantiyede kapıları taktır')

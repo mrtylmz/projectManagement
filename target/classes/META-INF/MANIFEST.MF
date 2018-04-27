@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: projectManagementApi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AB174389
+Implementation-Vendor-Id: com.yekapps.projecttool
+Build-Jdk: 1.8.0_66
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/projectManagementApi
+Created-By: Maven Integration for Eclipse
+
